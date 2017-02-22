@@ -1,6 +1,6 @@
  <?php
 
-use Zend\Mvc\Application;
+dqwuse Zend\Mvc\Application;
 use Zend\Stdlib\ArrayUtils;
  
 /**
